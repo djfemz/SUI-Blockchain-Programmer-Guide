@@ -1,4 +1,4 @@
-# Sui-Blockchain-Programmer-Guide
+# Sui-Blockchain-installation-Guide
 
 # Installation Instructions
 
